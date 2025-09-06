@@ -28,12 +28,12 @@ Initial Issues:
 Data cleaning was performed using Julius AI (for automation) and verified manually in Excel.
 
 # 🛠 Tools & Technologies
-| Tool          | Purpose                                              |
-| ------------- | ---------------------------------------------------- |
-| **Julius AI** | Automated data cleaning and preprocessing            |
-| **Excel**     | Data validation, exploratory analysis, and KPI setup |
-| **Power BI**  | Visualization and storytelling (optional extension)  |
-| Git & GitHub  | Version control & hosting                            |
+| Tool          | Purpose                                             |
+| ------------- | ----------------------------------------------------|
+| **Julius AI** | Automated data cleaning and preprocessing           |
+| **Excel**     | Data validation, exploratory analysis, and KPI setup|
+| **Power BI**  | Visualization and storytelling (optional extension) |
+| Git & GitHub  | Version control & hosting                           |
 
 
 # 📊 Dashboard Preview
