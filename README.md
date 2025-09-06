@@ -37,7 +37,7 @@ Data cleaning was performed using Julius AI (for automation) and verified manual
 
 
 # 📊 Dashboard Preview
-![Dashboard Overview](https://github.com/eatunw/Education-Program-Evaluation/raw/refs/heads/main/dashboard%20preview.mp4)
+![Dashboard Overview](https://github.com/eatunw/Education-Program-Evaluation/blob/main/dashboard%20overview.png?raw=true)
 
 # 🚀 Key Findings
 
